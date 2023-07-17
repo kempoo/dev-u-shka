@@ -1,5 +1,7 @@
 # A way to say "Welcome" to DEV world
 
+Homepage: https://kempoo.github.io/dev-u-shka
+
 ## Available Scripts
 
 In the project directory, you can run:
