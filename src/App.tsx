@@ -12,7 +12,7 @@ function App() {
 
   const getElapsedTime = () => {
     var endTime = new Date();
-    var startTime = new Date(2023, 6, 19, 9, 0, 0);
+    var startTime = new Date(2023, 6, 20, 9, 0, 0);
     // time difference in ms
     var timeDiff = endTime.getTime() - startTime.getTime();
 
